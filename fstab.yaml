@@ -7,8 +7,8 @@
 
 # Use the following for Doc-based authoring. Make sure to change it to your SharePoint or Google Drive url.
 mountpoints:
-# /: https://drive.google.com/drive/u/0/folders/1C8CxTy7rRNLwWKK4wnAE00uKp8wvZXRD
-/: https://adobe-my.sharepoint.com/:f:/r/personal/oharris_adobe_com1/Documents/AEM%20Sites/Myriad-ONEnet-SP
+/: https://drive.google.com/drive/u/0/folders/1C8CxTy7rRNLwWKK4wnAE00uKp8wvZXRD
+# /: https://adobe-my.sharepoint.com/:f:/r/personal/oharris_adobe_com1/Documents/AEM%20Sites/Myriad-ONEnet-SP
 
 folders:
   /products/plan/: /products/plan/default
